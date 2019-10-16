@@ -1,1 +1,2 @@
 # OpenShift GitOps Lab
+test
